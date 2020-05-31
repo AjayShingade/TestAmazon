@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [BDD Test Suite]" parallel="tests">
+  <test name="Online Retail Shop Test(failed)" parallel="tests">
+    <classes>
+      <class name="buyproduct.runner.RunCucumberTest">
+        <methods>
+          <include name="tearDownClass"/>
+          <include name="tearDown"/>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- buyproduct.runner.RunCucumberTest -->
+    </classes>
+  </test> <!-- Online Retail Shop Test(failed) -->
+</suite> <!-- Failed suite [BDD Test Suite] -->

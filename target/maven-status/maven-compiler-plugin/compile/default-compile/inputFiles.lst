@@ -1,0 +1,12 @@
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\pageobjects\AmazonLoginPage.java
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\utility\MobileUtility.java
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\managers\WebDriverManager.java
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\domain\User.java
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\managers\FileReaderManager.java
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\enums\DriverType.java
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\pageobjects\amazonHomePage.java
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\enums\EnvironmentType.java
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\managers\PageObjectManager.java
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\dataproviders\ConfigFileReader.java
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\selenium\Wait.java
+D:\EthansAutomationworkspace\TestAmazon\src\main\java\constants\AppConstants.java
